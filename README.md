@@ -1,5 +1,7 @@
 ### Here is What I'am Working on! 👋
 
+[Resume](https://drive.google.com/file/d/1YVgxtyVe5ZKFwg7sA1NHCXeLlzSF5WYJ/view?usp=sharing)
+
 - 🔭 I’m currently working on ... SoftDevs.org
 - 🌱 I’m currently learning ... Node.js
 - 👯 I’m looking to collaborate on ... React.js
