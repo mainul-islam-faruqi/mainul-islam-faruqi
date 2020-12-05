@@ -8,6 +8,5 @@
 - 🤔 I’m looking for help with ... React.js
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... mainulislamfaruqi@gmail.com
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a Code Lover
 
