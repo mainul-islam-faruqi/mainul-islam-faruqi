@@ -47,7 +47,7 @@
 <br/> <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyPythonLover1&show_icons=true&count_private=true)  
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrazyPythonLover1&show_icons=true&theme=radical)
 
 ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)  
