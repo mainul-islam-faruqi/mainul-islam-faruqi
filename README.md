@@ -1,6 +1,4 @@
-### Hi I'm Md. Mainul Islam 
-
-[Resume](https://drive.google.com/file/d/1YVgxtyVe5ZKFwg7sA1NHCXeLlzSF5WYJ/view?usp=sharing)
+### Hi I'm Md. Mainul Islam  [Resume](https://drive.google.com/file/d/1YVgxtyVe5ZKFwg7sA1NHCXeLlzSF5WYJ/view?usp=sharing)
 
 - 🔭 I’m currently working on --- answarit.com
 - 💻 I'm a freelance Frontend Web Developer with love for ReactJS.
