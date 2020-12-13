@@ -2,13 +2,15 @@
 
 [Resume](https://drive.google.com/file/d/1YVgxtyVe5ZKFwg7sA1NHCXeLlzSF5WYJ/view?usp=sharing)
 
-- 🔭 I’m currently working on ... answarit.com
-- 🌱 I’m currently learning ... React.js/Node.js
-- 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ... React.js
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... mainulislamfaruqi@gmail.com
-- ⚡ Fun fact: ... I am a Code Lover
+- 🔭 I’m currently working on --- answarit.com
+- 💻 I'm a freelance Frontend Web Developer with love for ReactJS.
+- ❤️ I love to code, build websites and full-stack web applications.
+- 🔌 My GOAL: work as a professional Front-end Developer in a vibrant Tech company.
+- 📚 Learning software engineering, self driven, hard working and friendly.😃
+- 👯 I am open to collaborate with other digital content creators.
+- 💬 Ask me about --- Anything
+- 📫 How to reach me: --- mainulislamfaruqi@gmail.com
+- 🌷 Enjoying coding lifestyle and learning new things related to webdesign, webdevelopment, software engineering and AI is what keeps me alive and kicking.
 
 ### Connect with me:
 
