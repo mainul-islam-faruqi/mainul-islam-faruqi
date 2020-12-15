@@ -8,7 +8,7 @@
 - 👯 I am open to collaborate with other digital content creators.
 - 💬 Ask me about --- Anything
 - 📫 How to reach me: --- mainulislamfaruqi@gmail.com
-- 🌷 Enjoying coding lifestyle and learning new things related to webdesign, webdevelopment, software engineering and AI is what keeps me alive and kicking.
+- 🌷 Enjoying coding lifestyle and learning new things related to webdesign, webdevelopment, software engineering is what keeps me alive and kicking.
 
 ### Connect with me:
 
