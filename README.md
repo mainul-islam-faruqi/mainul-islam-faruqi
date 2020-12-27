@@ -42,11 +42,11 @@
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br/> <br/>
+<br/> <br/> <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrazyPythonLover1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+<br/> <br/>
 ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)  
 
 
