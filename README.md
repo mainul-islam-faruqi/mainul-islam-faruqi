@@ -47,3 +47,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrazyPythonLover1&show_icons=true&theme=radical)
 
 ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
