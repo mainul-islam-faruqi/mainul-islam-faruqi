@@ -30,6 +30,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png" />
 <img align="left" alt="Solidity" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdocs.soliditylang.org%2Fen%2Fv0.6.9%2F_images%2Flogo.svg&imgrefurl=https%3A%2F%2Fsolidity.readthedocs.io%2Fen%2Fv0.6.9%2F&tbnid=LcAYf9aqQ7ahoM&vet=12ahUKEwiz7tmTjN7xAhVaBHIKHUcaAK0QMygFegUIARC2AQ..i&docid=lcFx7dmocJhMHM&w=1300&h=1300&q=Solidity%20img%2Fpicture&ved=2ahUKEwiz7tmTjN7xAhVaBHIKHUcaAK0QMygFegUIARC2AQ" />
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdocs.soliditylang.org%2Fen%2Fv0.6.9%2F_images%2Flogo.svg&imgrefurl=https%3A%2F%2Fsolidity.readthedocs.io%2Fen%2Fv0.6.9%2F&tbnid=LcAYf9aqQ7ahoM&vet=12ahUKEwiz7tmTjN7xAhVaBHIKHUcaAK0QMygFegUIARC2AQ..i&docid=lcFx7dmocJhMHM&w=1300&h=1300&q=Solidity%20img%2Fpicture&ved=2ahUKEwiz7tmTjN7xAhVaBHIKHUcaAK0QMygFegUIARC2AQ)
 <img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/react/react.png" />
 
 <img align="left" alt="Deno" width="35px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/django/django.png" />
