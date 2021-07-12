@@ -29,8 +29,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png" />
-<img align="left" alt="Solidity" width="26px" src="https://docs.soliditylang.org/en/v0.6.9/_images/logo.svg" />
-![](https://docs.soliditylang.org/en/v0.6.9/_images/logo.svg)
+<img align="left" alt="Solidity" width="40px" src="https://docs.soliditylang.org/en/v0.6.9/_images/logo.svg" />
+
 <img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/react/react.png" />
 
 <img align="left" alt="Deno" width="35px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/django/django.png" />
