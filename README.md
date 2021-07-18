@@ -1,7 +1,7 @@
 ### Hi I'm Md. Mainul Islam  [Resume](https://drive.google.com/file/d/1YVgxtyVe5ZKFwg7sA1NHCXeLlzSF5WYJ/view?usp=sharing)
 
 - 🔭 I’m currently working on --- Tempus Capital
-- 💻 I'm a freelance Frontend Web Developer with love for ReactJS.
+- 💻 I'm a Frontend Web Developer with love for ReactJS.
 - ❤️ I love to code, build websites and full-stack web applications.
 - 🔌 My GOAL: work as a professional Front-end Developer in a vibrant Tech company.
 - 📚 Learning software engineering, self driven, hard working and friendly.😃
@@ -48,8 +48,8 @@
 <br/> <br/> <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrazyPythonLover1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1&theme=radical&langs_count=14&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPythonLover1&langs_count=14&hide=php&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
-![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)  
+<!-- ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)   -->
 
 
