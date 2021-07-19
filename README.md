@@ -33,7 +33,7 @@
 
 <img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/react/react.png" />
 
-<img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" />
+<img align="left" alt="Django" width="35px" color="#092E20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" />
 <img align="left" alt="Node.js" width="35px" src="https://camo.githubusercontent.com/a7a5fd3fa7a8c0c854279b31bcbc94d54862bef84643802a81501670d3f95901/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f6e6f64652d6a732d313137343932352e706e67" />
 <img align="left" alt="Deno" width="35px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/express/express.png" />
 
