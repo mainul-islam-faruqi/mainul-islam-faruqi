@@ -1,9 +1,9 @@
 ### Hi I'm Md. Mainul Islam  [Resume](https://drive.google.com/file/d/1YVgxtyVe5ZKFwg7sA1NHCXeLlzSF5WYJ/view?usp=sharing)
 
 - 🔭 I’m currently working on --- Tempus Capital
-- 💻 I'm a Frontend Web Developer with love for ReactJS.
-- ❤️ I love to code, build websites and full-stack web applications.
-- 🔌 My GOAL: work as a professional Front-end Developer in a vibrant Tech company.
+- 💻 I'm a Full-stack Web Developer with ReactJS, Node.js, Python, Django.
+- ❤️ I love to code, learning new things related to Software Engineering.
+- 🔌 My GOAL: work as a professional Software Engineer in a vibrant Tech company.
 - 📚 Learning software engineering, self driven, hard working and friendly.😃
 - 👯 I am open to collaborate with other digital content creators.
 - 💬 Ask me about --- Anything
