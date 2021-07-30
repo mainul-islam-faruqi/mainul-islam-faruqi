@@ -41,7 +41,7 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="40px" src="https://camo.githubusercontent.com/c59003eacd06654b84692765cc070b03f6a33b86fe8e3f2c21deecbc5e0b95f7/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f6d7973716c2d31382d313137343933382e706e67" />
 <img align="left" alt="MongoDB" width="40px" color="#47A248" style="color:#47A248" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
