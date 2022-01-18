@@ -1,11 +1,10 @@
 ### Hi I'm Md. Mainul Islam  [Resume](https://drive.google.com/file/d/1YVgxtyVe5ZKFwg7sA1NHCXeLlzSF5WYJ/view?usp=sharing)
 
-- 🔭 I’m currently working on --- Tempus Capital
+- 🔭 I’m currently working on --- Tempus.Capital as Software Engineer.
 - 💻 I'm a Full-stack Web Developer with ReactJS, Node.js, Python, Django.
 - ❤️ I love to code, learning new things related to Software Engineering.
 - 🔌 My GOAL: work as a professional Software Engineer in a vibrant Tech company.
 - 📚 Learning software engineering, self driven, hard working and friendly.😃
-- 👯 I am open to collaborate with other digital content creators.
 - 💬 Ask me about --- Anything
 - 📫 How to reach me: --- mainulislamfaruqi@gmail.com
 - 🌷 Enjoying coding lifestyle and learning new things related to frontend, backend, software engineering, Blockchain what keeps me alive and kicking.
