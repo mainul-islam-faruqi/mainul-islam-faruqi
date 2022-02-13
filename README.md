@@ -1,7 +1,7 @@
 <h1 align="center"> Hi I'm Md. Mainul Islam </h1>
 
-## 💻 Software Engineer | ⌨️ Programming, Blockchain Enthusiast | ✨ Bangladesh
-
+<h2 align="center">  💻 Software Engineer | ⌨️ Programming, Blockchain Enthusiast | ✨ Bangladesh </h2>
+ 
 - 🔭 I’m currently working on --- Tempus.Capital as Technical Team Lead.
 - 💻 I'm a Full-stack Web Developer with ReactJS, Node.js, Python, Django.
 - ❤️ I love to code, learning new things related to Software Engineering.
