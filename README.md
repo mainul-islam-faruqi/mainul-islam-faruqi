@@ -1,6 +1,7 @@
 <h1 align="center"> Hi I'm Md. Mainul Islam </h1>
 
-<h2 align="center">  💻 Software Engineer | ⌨️ Programming, Blockchain Enthusiast | ✨ Bangladesh </h2>
+<h2 align="center">  💻 Software Engineer | ⌨️ Programming, Blockchain Enthusiast </h2>
+<!-- | ✨ Bangladesh  -->
  
 - 🔭 I’m currently working on --- Tempus.Capital as Technical Team Lead(Web3, Mobile & Blockchain).
 - 💻 I'm a Full-stack Web Developer with ReactJS, React-Native, Node.js & Blockchain Developer(Solidity,Pact).
