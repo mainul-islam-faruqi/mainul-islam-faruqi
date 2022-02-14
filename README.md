@@ -2,8 +2,8 @@
 
 <h2 align="center">  💻 Software Engineer | ⌨️ Programming, Blockchain Enthusiast | ✨ Bangladesh </h2>
  
-- 🔭 I’m currently working on --- Tempus.Capital as Technical Team Lead.
-- 💻 I'm a Full-stack Web Developer with ReactJS, Node.js, Python, Django.
+- 🔭 I’m currently working on --- Tempus.Capital as Technical Team Lead(Web3, Mobile & Blockchain).
+- 💻 I'm a Full-stack Web Developer with ReactJS, React-Native, Node.js & Blockchain Developer(Solidity,Pact).
 - ❤️ I love to code, learning new things related to Software Engineering.
 - 🔌 My GOAL: work as a professional Software Engineer in a vibrant Tech company.
 - 📚 Learning software engineering, self driven, hard working and friendly.😃
