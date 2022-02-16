@@ -5,7 +5,7 @@
  
 - 🔭 I’m currently working on --- Tempus.Capital as Technical Team Lead(Web, Mobile, Blockchain, Web3, NFT).
 - 💻 I'm a Full-stack Web Developer with ReactJS, React-Native, Node.js & Blockchain Developer(Solidity,Pact).
-- ❤️ I love to code, learning new things related to Software Engineering.
+- ❤️ I love to code, am interest to learn new things related to Software Engineering, Cloud computing, Blockchain.
 - 🔌 My GOAL: work as a professional Software Engineer in a vibrant Tech company.
 - 📚 Learning software engineering, self driven, hard working and friendly.😃
 - 💬 Ask me about --- Anything
