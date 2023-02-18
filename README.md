@@ -28,17 +28,17 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" />
+<img align="left" alt="JavaScript" width="" src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Deno" width="40px" src="https://camo.githubusercontent.com/b68ee2443882c03a011ea49e1b6bcbe7bd994e1da6a980291557a3fd89348322/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f707974686f6e2d322d3232363035312e706e67" />
-<img align="left" alt="Solidity" width="26px" color="#363636" src="https://camo.githubusercontent.com/c40b940829c7feb5aa93b98150dede2d99b5461d7dfb277aeef2c17daa71833c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f6c69646974792d3035313232413f7374796c653d666c6174266c6f676f3d736f6c6964697479" />
+<img align="left" alt="Solidity" width="" color="#363636" src="https://camo.githubusercontent.com/c40b940829c7feb5aa93b98150dede2d99b5461d7dfb277aeef2c17daa71833c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f6c69646974792d3035313232413f7374796c653d666c6174266c6f676f3d736f6c6964697479" />
 
-<img align="left" alt="Ethereum" width="40px" src="https://camo.githubusercontent.com/82f8adc306f904af262026a041deca556d18f4d723778e313d8bd98b716e854a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457468657265756d2d3035313232413f7374796c653d666c6174266c6f676f3d657468657265756d" />
+<img align="left" alt="Ethereum" width="" src="https://camo.githubusercontent.com/82f8adc306f904af262026a041deca556d18f4d723778e313d8bd98b716e854a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457468657265756d2d3035313232413f7374796c653d666c6174266c6f676f3d657468657265756d" />
 
-<img align="left" alt="React" width="40px" src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" />
+<img align="left" alt="React" width="" src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" />
 
 <img align="left" alt="Django" width="35px" color="#092E20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" />
-<img align="left" alt="Node.js" width="35px" src="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" />
+<img align="left" alt="Node.js" width="" src="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" />
 <img align="left" alt="Express.js" width="35px" color="#000000" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" />
 
 <!-- <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /> -->
