@@ -19,8 +19,8 @@
 ### 🛠 &nbsp;Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
-![Web3](https://img.shields.io/badge/-Web3-05122A?style=flat&logo=web3.js)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)&nbsp;
+![Web3](https://img.shields.io/badge/-Web3-05122A?style=flat&logo=web3.js)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
