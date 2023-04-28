@@ -4,7 +4,7 @@
 
 ### Who am I?
 
-#### I build Defi, Dex, Smart contracts, NFT marketplace, Crypto Wallet, and Web App.
+#### I build Defi, Dex, Smart contracts, NFT marketplace, Crypto Wallet, Chrome extension and Full Stack Web App.
 
 ### My featured projects:
 <!-- https://nft-africaswap.web.app/#/ -->
