@@ -97,7 +97,7 @@
 <br/> <br/> <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mainul-islam-faruqi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainul-islam-faruqi&langs_count=14&hide=css,php,html,java,objective-c,shell,powershell,ruby,starlark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainul-islam-faruqi&langs_count=14&hide=python,css,php,html,java,objective-c,shell,powershell,ruby,starlark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/> <br/>
 <!-- ![Profile views](https://gpvc.arturio.dev/CrazyPythonLover1)   -->
 
