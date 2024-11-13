@@ -4,7 +4,7 @@
 
 ### Who am I?
 
-#### I build Defi, Dex, Smart contracts, NFT marketplace, Crypto Wallet, Chrome extension and Full Stack Web App.
+#### I am a full-stack web developer with 4 years of experience. I am specialised in web3.js, React.js, Next.js, Node.js, Express.js, Ethereum, Solana and EVM-compatible blockchains.
 
 ### My featured projects:
 <!-- https://nft-africaswap.web.app/#/ -->
