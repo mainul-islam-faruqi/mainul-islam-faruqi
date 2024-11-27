@@ -42,7 +42,7 @@
 
 ### Contact me:
 
-[<img align="left" alt="LinkedIn" width="26px" style="margin:0px 0px 0px 5px; padding: 20" src="https://github.com/user-attachments/assets/a1d18e6a-5c7c-4092-8249-6ab4d85a5788" />](https://www.linkedin.com/in/mainul-islam-web3-dev/)
+[<img align="left" alt="LinkedIn" width="26px" style="margin:0 0 0 5; padding: 20" src="https://github.com/user-attachments/assets/a1d18e6a-5c7c-4092-8249-6ab4d85a5788" />](https://www.linkedin.com/in/mainul-islam-web3-dev/)
 [![telegram](https://user-images.githubusercontent.com/23559697/168880880-31e2979b-c077-4dbb-9c89-40e39e657080.png)](https://t.me/msfaruqi)
 [![discord](https://user-images.githubusercontent.com/23559697/168879714-bf64acf3-48c9-4c8c-8507-fbbb7bf07481.png)](https://discordapp.com/users/943535226125185054)
 [![skype](https://user-images.githubusercontent.com/23559697/168881725-6f9ddf34-7dfa-4820-9ae9-863353928596.png)](https://join.skype.com/invite/VqlEEwXOruy6)
