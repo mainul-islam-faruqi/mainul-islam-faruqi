@@ -4,7 +4,7 @@
 
 ### Who am I?
 
-#### I am a full-stack web developer with 4 years of experience. I am specialised in web3.js, React.js, Next.js, Node.js, Express.js, Ethereum, Solana and EVM-compatible blockchains.
+#### I am a full-stack web developer with 6 years of experience. I am specialised in web3.js, React.js, Next.js, Node.js, Express.js, Ethereum, Solana and EVM-compatible blockchains.
 
 ### My featured projects:
 <!-- https://nft-africaswap.web.app/#/ -->
