@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I'm Md. Mainul Islam </h1>
 
-<h2 align="center">  💻 Software Engineer | ⌨️ Full Stack Blockchain Engineer. </h2>
+<h2 align="center">  💻 Senior Software Engineer | ⌨️ Full Stack AI Engineer. </h2>
 
 ### Who am I?
 
